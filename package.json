@@ -9,6 +9,10 @@
   "repository": "https://github.com/PeterGW/my-vue.git",
   "author": "PeterGw <wgao1241@163.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "dev": "node scripts/dev.js"
+  },
   "dependencies": {
     "typescript": "^4.3.5"
   },

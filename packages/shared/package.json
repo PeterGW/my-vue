@@ -5,7 +5,7 @@
   "license": "MIT",
   "buildOptions": {
     "name": "shared",
-    "fomats": [
+    "formats": [
       "esm-bundler",
       "cjs"
     ]
